@@ -4,6 +4,6 @@ void m1(){
 }
 
 JavaUtils(){
-
+ int a=10;
 }
 }
